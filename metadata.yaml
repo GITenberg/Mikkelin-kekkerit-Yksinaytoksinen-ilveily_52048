@@ -1,0 +1,25 @@
+_repo: Mikkelin-kekkerit-Yksinaytoksinen-ilveily_52048
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Niemi, Vihtori
+    birthdate: 1870
+    deathdate: 1910
+    gutenberg_agent_id: '46640'
+    url: http://www.gutenberg.org/2009/agents/46640
+    wikipedia: https://fi.wikipedia.org/wiki/Vihtori_Niemi
+description: ''
+gutenberg_issued: '2016-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52048'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 19th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Mikkelin kekkerit: Yksinäytöksinen ilveily'
+url: http://www.gutenberg.org/ebooks/52048
